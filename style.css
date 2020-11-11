@@ -85,7 +85,7 @@ border-radius: 30px;
 width: 100px;
 }
 .link-item:nth-of-type(3) {
-    background-image: url(/whatback.png);
+    background-image: url(./whatback.png);
 border-radius: 30px;
 width: 100px;
 }
