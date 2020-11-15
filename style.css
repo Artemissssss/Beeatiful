@@ -78,6 +78,7 @@ transition: 500ms;
     background-image: url(./backi.png);
 border-radius: 30px;
 width: 100px;
+background-size: 100px;
 }
 .link-item:nth-of-type(2) {
     background-image: url(./backv.png);
