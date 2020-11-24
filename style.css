@@ -110,7 +110,7 @@ width: 100px;
 border-radius: 25px;
 }
 .link-item:nth-of-type(1):hover {
-    box-shadow: #ae39ac 7px 7px 10px;
+    box-shadow: #e48022 7px 7px 10px;
 }
 .link-item:nth-of-type(2):hover {
     box-shadow: #84318f 7px 7px 10px;
