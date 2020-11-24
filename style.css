@@ -121,10 +121,10 @@ border-radius: 25px;
 .link-item:nth-of-type(4):hover {
     box-shadow: rgb(166, 0, 199) 7px 7px 10px;
 } */
-.link-item:nth-of-type(5):hover {
+.link-item:nth-of-type(3):hover {
     box-shadow: rgb(0, 110, 255) 7px 7px 10px;
 }
-.link-item:nth-of-type(6):hover {
+.link-item:nth-of-type(4):hover {
     box-shadow: rgb(221, 204, 52) 7px 7px 10px;
 }
 .terms {
